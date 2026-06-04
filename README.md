@@ -1,7 +1,7 @@
 # Level 3 — Functional Programming
 
 Bài tập lớn level 3 môn **Phương pháp luận lập trình**.
-Nội dung chi tiết: xem `report_level-3_NguyenHuuDung_25022808.pdf`.
+
 
 ## Build nhanh (không SDL)
 
